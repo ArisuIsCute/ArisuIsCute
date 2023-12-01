@@ -12,4 +12,4 @@ ETC : <img src="https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&
 
 My Study Notion     
    
-<a href="https://tendouarisu.notion.site/Study-e518efb74f9b421686ffda62dde161fd?pvs=4"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=notion&logoColor=gray"></a>
+<a href="https://tendouarisu.notion.site/Study-e518efb74f9b421686ffda62dde161fd?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
