@@ -8,3 +8,8 @@ Cooperation : <img src="https://img.shields.io/badge/GitHub-181717?style=flat&lo
 ETC : <img src="https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 * * *
 [![wakatime](https://wakatime.com/badge/user/018b4c61-4575-4f04-b733-5f6d19185317.svg)](https://wakatime.com/@018b4c61-4575-4f04-b733-5f6d19185317)
+* * *
+
+My Study Notion     
+   
+<a href="https://tendouarisu.notion.site/Study-e518efb74f9b421686ffda62dde161fd?pvs=4"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=notion&logoColor=gray"></a>
